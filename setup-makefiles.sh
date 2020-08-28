@@ -22,6 +22,6 @@ export DEVICE=figo
 export DEVICE_COMMON=hi6250-common
 export VENDOR=huawei
 
-export INITIAL_COPYRIGHT_YEAR=2018
+export INITIAL_COPYRIGHT_YEAR=2020
 
 ./../../$VENDOR/$DEVICE_COMMON/setup-makefiles.sh $@
